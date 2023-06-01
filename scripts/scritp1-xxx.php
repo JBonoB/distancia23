@@ -4,9 +4,9 @@
  * suma, resta, multiplicación y división.
  * Cada función recibe dos parámetros para operar.
  * 
- * @author Nombre Apellido
+ * @author Jesús Bono
  * 
- * @version 1.3
+ * @version 2.0
  * 
  */
 
